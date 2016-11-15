@@ -9,4 +9,5 @@ group :test do
   gem 'sinatra'
   gem "rake"
   gem "rspec-sinatra"
+  gem 'database_cleaner'
 end
